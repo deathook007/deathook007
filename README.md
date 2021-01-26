@@ -54,12 +54,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Deepak GitHub Stats" src="https://github-readme-stats.deathook007.vercel.app/api?username=deathook007&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Deepak GitHub Stats" src="https://github-readme-stats.deathook007.vercel.app/api?username=deathook007&show_icons=true&hide_border=true" />
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
