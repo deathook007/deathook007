@@ -54,6 +54,8 @@
 
 ---
 
+ <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deathook007&show_icons=true&hide_border=true" />
+
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
 [twitter]: https://twitter.com/Deepakb62397486
