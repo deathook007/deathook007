@@ -1,5 +1,7 @@
 ## Hi there, I'm Deepak Bhatt 👋
 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
+
 ### I'm a Student, Developer, and Teacher!
 
 - 🔭 I am currently a student and educator at [DevForFun][course]
