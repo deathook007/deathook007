@@ -58,16 +58,6 @@
 
 <img align="left" alt="Deepak GitHub Stats" src="https://github-readme-stats.deathook007.vercel.app/api?username=deathook007&show_icons=true&hide_border=true" />
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
 [twitter]: https://twitter.com/Deepakb62397486
