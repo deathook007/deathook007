@@ -1,15 +1,16 @@
-## Hi there, I'm Deepak Bhatt 👋
+## Hi there, I'm Deepak Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
 
-### I'm a Student, Developer, and Teacher!
+## I'm a Student, Developer, Teacher and Indian
 
-- 🔭 I am currently a student and educator at [DevForFun][course]
+- 🔭 I am currently a student and educator at [DevForFun][course]. Working in something cool 😉
 - 🌱 I’m currently learning full stack development and data science with machine learning
 - 👯 I’m looking to collaborate on web development and data science roles
 - 🥅 2021 Goals: Contribute to Open Source projects, Inspire 1000+ students at DevForFun, Learn android development and making a move to Startup
 - 💬 Ask me about tech-stacks web dev, data science, competitive programing and gate 2022 preparation
-- ⚡ Fun fact: I love to watch Anime and hope to have my own one day 😂
+- 📫 How to reach me: [Mail me 👈](deepak.shivay.bhatt@gmail.com)
+- ⚡ Fun fact: I love to draw and watch Anime and hope to have my own one day 🤣
 
 ### Spotify Playing 🎧
 
@@ -17,10 +18,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Youtube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg />][twitter]
+[<img align="left" alt="Youtube" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />][youtube]
 
 <br />
 
@@ -56,13 +56,20 @@
 
 ---
 
-<img align="left" alt="Deepak GitHub Stats" src="https://github-readme-stats.deathook007.vercel.app/api?username=deathook007&show_icons=true&hide_border=true" />
+If you like what I do, maybe consider buying me a coffee 😊👉👈
+
+<a href="https://www.buymeacoffee.com/deathook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+---
+
+### My GitHub Stats:
+
+<img align="left" alt="Deepak GitHub Stats" src="https://github-readme-stats.deathook007.vercel.app/api?username=deathook007&show_icons=true&hide_border=true&theme=gotham" />
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
 [twitter]: https://twitter.com/Deepakb62397486
 [youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
-[instagram]: https://www.instagram.com/deepak_bhatt007
 [gfg]: https://auth.geeksforgeeks.org/user/deepakshivaybhatt/practice/
 [codechef]: https://www.codechef.com/users/deathook
 [codeforces]: https://codeforces.com/profile/deathook
