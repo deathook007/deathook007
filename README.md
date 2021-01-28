@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on web development and data science roles
 - 🥅 2021 Goals: Contribute to Open Source projects, Inspire 1000+ students at DevForFun, Learn android development and making a move to Startup
 - 💬 Ask me about tech-stacks web dev, data science, competitive programing and gate 2022 preparation
-- 📫 How to reach me: [Mail me 👈](deepak.shivay.bhatt@gmail.com)
+- 📫 How to reach me: Mail me [deepak.shivay.bhatt@gmail.com] 👈
 - ⚡ Fun fact: I love to draw and watch Anime and hope to have my own one day 🤣
 
 ### Spotify Playing 🎧
