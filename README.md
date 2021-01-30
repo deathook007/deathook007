@@ -71,6 +71,8 @@
 
 <img align="left" alt="Deepak GitHub Stats" src="https://github-readme-stats.deathook007.vercel.app/api?username=deathook007&show_icons=true&hide_border=true&theme=gotham" />
 
+ <img align="left" src="https://github-readme-stats.deathook007.vercel.app/api/top-langs/?username=deathook007&theme=dark&hide_langs_below=1" />
+
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
 [twitter]: https://twitter.com/Deepakb62397486
