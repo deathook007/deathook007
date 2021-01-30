@@ -6,7 +6,7 @@
 
 - 🔭 I am currently a student and educator at [DevForFun][course]. Working in something cool 😉
 - 🌱 I’m currently learning full stack development and data science with machine learning
-- 👯 I’m looking to collaborate on web development and data science roles
+- 🤝 I’m looking to collaborate on web development and data science roles
 - 🥅 2021 Goals: Contribute to Open Source projects, Inspire 1000+ students at DevForFun, Learn android development and making a move to Startup
 - 💬 Ask me about tech-stacks web dev, data science, competitive programing and gate 2022 preparation
 - ✅ Publication: Contemporary issues in computing (Volume 2 Issue 1) - [IQRAR: AN INTELLIGEN, QUICK AND RAPID RESPONSE SYSTEM](https://intelcomp-design.com/index.php/1-2020-109-113)
