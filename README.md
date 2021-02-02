@@ -9,7 +9,7 @@
 - 🤝 I’m looking to collaborate on web development and data science roles
 - 🥅 2021 Goals: Contribute to Open Source projects, Inspire 1000+ students at DevForFun, Learn android development and making a move to Startup
 - 💬 Ask me about tech-stacks web dev, data science, competitive programing and gate 2022 preparation
-- ✅ Publication: Contemporary issues in computing (Volume 2 Issue 1) - [IQRAR: AN INTELLIGEN, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)
+- ✅ Publication: Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - [IQRAR: AN INTELLIGEN, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)
 - 📫 How to reach me: Mail me [deepak.shivay.bhatt@gmail.com] 👈
 - ⚡ Fun fact: I love to draw and watch Anime and hope to have my own one day 🤣
 
