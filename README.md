@@ -1,7 +1,7 @@
 ## Hi there, I'm Deepak Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ## I'm a Student, Developer, Teacher and Indian
 
