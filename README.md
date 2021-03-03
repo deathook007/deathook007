@@ -3,7 +3,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## I'm a Student, Developer, Teacher and Indian
+## I'm a Student, Developer and Indian
 
 - 🔭 I am currently a student and educator at [DevForFun][course]. Working in something cool 😉
 - 🌱 I’m currently learning full stack development and data science with machine learning
