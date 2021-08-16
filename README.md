@@ -3,22 +3,29 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## I'm a Student, Developer and Indian
+## I'm a Student, Developer and Indian ✔
 
-- 🔭 I am currently a student and educator at [DevForFun][course]. Working in something cool 😉
-- 🌱 I’m currently learning full stack development and data science
-- 🤝 I’m looking to collaborate on web development and data science roles
-- 🥅 2021 Goals: Contribute to Open Source projects, Inspire 1000+ students at DevForFun, Learn android development and making a move to Startup
-- 💬 Ask me about tech-stacks web dev, data science and gate 2022 preparation
-- ✅ Publication: Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - [IQRAR: AN INTELLIGEN, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)
-- 📫 How to reach me: Mail me at - [deepak.shivay.bhatt@gmail.com]
-- ⚡ Fun fact: I love to draw and watch Anime and hope to have my own one day
+🔭 I am currently a <b>student</b> and <b>community educator</b> at <b>[DevForFun][course]</b>. Working in something cool 😉
+
+🌱 I’m currently learning <b>full stack development and data science</b>
+
+🤝 I’m looking to collaborate on web development and data science roles
+
+🥅 <b>2021 Goals - </b> Contribute to Open Source projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>android development</b> and making a move to Startup
+
+💬 Ask me about tech-stacks web dev, data science and <b>gate 2022</b> preparation
+
+✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - [IQRAR: AN INTELLIGEN, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)
+
+📫 <b>How to reach me - </b> Mail me at - [deepak.shivay.bhatt@gmail.com]
+ 
+⚡ <b>Fun fact - </b> I love to draw and watch Anime and hope to have my own one day
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31i3cbrpevzio4iop4b6b66kg4la)
 
-### Connect with me:
+### Connect with me
 
 <a href="https://www.linkedin.com/in/deepak-bhatt-b7959817b">
   <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -32,7 +39,7 @@
 
 <br />
 
-### Competitive Profile:
+### Competitive Profile
 
 [<img align="left" alt="geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />][gfg]
 [<img align="left" alt="codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][codechef]
@@ -40,7 +47,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="cpp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -64,11 +71,11 @@
 
 ---
 
-- ✅ If you like what I do, maybe consider buying me a coffee 😊👉👈
+### ✅ If you like what I do, maybe consider buying me a coffee 😊👉👈
 
 <a href="https://www.buymeacoffee.com/deathook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-### My GitHub Stats:
+### My GitHub Stats
 
 <img align="left" alt="Deepak GitHub Stats" src="https://github-readme-stats.deathook007.vercel.app/api?username=deathook007&show_icons=true&hide_border=true&theme=gotham" />
 
