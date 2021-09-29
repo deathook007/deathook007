@@ -73,7 +73,8 @@
 
 ### My GitHub Stats
 
-<img align="left" alt="Deepak GitHub Stats" src="https://github-readme-stats.deathook007.vercel.app/api?username=deathook007&show_icons=true&hide_border=true&theme=gotham" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathook007)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
