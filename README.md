@@ -7,27 +7,24 @@
 
 🔭 I am currently a <b>student</b> and <b>community educator</b> at <b>[DevForFun][course]</b>. Working in something cool 😉
 
-🌱 I’m currently learning <b>full-stack development, and data science</b>
+🌱 I’m currently learning <b>full-stack development, and data science.</b>
 
-🤝 I’m looking to collaborate on web development and, data science roles
+🤝 I’m looking to collaborate on web development and, data science roles.
 
-🥅 <b>2021 Goals - </b> Contribute to Open Source projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>android development</b> and making a move to Startup
+🥅 <b>2022 Goals - </b> Contribute to Open Source projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>android development</b> and making a move to Startup.
 
-💬 Ask me about tech-stacks web dev, data science and <b>gate 2022</b> preparation
+💬 Ask me about tech-stacks web dev, data science and <b>gate core subject's</b> preparation.
 
 ✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - [IQRAR: AN INTELLIGENT, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)
 
 📫 <b>How to reach me - </b> Mail me at - [deepak.shivay.bhatt@gmail.com]
  
-⚡ <b>Fun fact - </b> I love to draw and watch Anime and hope to have my own one day
+⚡ <b>Fun fact - </b> I love to draw and watch Anime and hope to have my own one day.
 
 ### Connect with me
 
 <a href="https://www.linkedin.com/in/deepak-bhatt-b7959817b">
   <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/Deepakb62397486">
-  <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ">
   <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
@@ -38,7 +35,6 @@
 ### Competitive Profile
 
 [<img align="left" alt="geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />][gfg]
-[<img align="left" alt="codechef" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codechef.svg" />][codechef]
 [<img align="left" alt="codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][codeforces]
 
 <br />
@@ -78,8 +74,6 @@
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
-[twitter]: https://twitter.com/Deepakb62397486
 [youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
 [gfg]: https://auth.geeksforgeeks.org/user/deepakshivaybhatt/practice/
-[codechef]: https://www.codechef.com/users/deathook
-[codeforces]: https://codeforces.com/profile/deathook
+[codeforces]: https://codeforces.com/profile/deathook007
