@@ -3,17 +3,17 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## I'm a Student, Developer and Indian ✔
+## I'm a Student and Developer from Indian ✔
 
-🔭 I am currently a <b>student</b> and <b>community educator</b> at <b>[DevForFun][course]</b>. Working in something cool 😉
+💬 I am a 4th Year Undergraduate <b>Student at University Institute of Technology, Burdwan</b> and <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
-🌱 I’m currently learning <b>full-stack development, and data science.</b>
+- I’m currently learning <b>Full-Stack Development, and Data Science.</b>
 
-🤝 I’m looking to collaborate on web development and, data science roles.
+- <b>2022 Goals - </b> Contribute to Open Source projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Block Chain</b> and making a move to <b>Start-up</b>.
 
-🥅 <b>2022 Goals - </b> Contribute to Open Source projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>android development</b> and making a move to Startup.
+- Ask me about Tech-Stacks - Web Dev, Data Science and <b>CSE Core Subject's</b>.
 
-💬 Ask me about tech-stacks web dev, data science and <b>gate core subject's</b> preparation.
+🤝 I’m looking to collaborate on <b>Web Development</b> and, <b>Software Development</b> roles.
 
 ✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - [IQRAR: AN INTELLIGENT, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)
 
@@ -35,13 +35,12 @@
 ### Competitive Profile
 
 [<img align="left" alt="geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />][gfg]
-[<img align="left" alt="codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codeforces.svg" />][codeforces]
+[<img align="left" alt="codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
 
 <br />
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="cpp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="java" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -52,6 +51,7 @@
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -63,9 +63,8 @@
 
 ---
 
-### ✅ If you like what I do, maybe consider buying me a coffee 😊👉👈
-
 <a href="https://www.buymeacoffee.com/deathook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+ - #### If you like what I do, maybe consider buying me a coffee 👈
 
 ### My GitHub Stats
 
@@ -76,4 +75,4 @@
 [linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
 [youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
 [gfg]: https://auth.geeksforgeeks.org/user/deepakshivaybhatt/practice/
-[codeforces]: https://codeforces.com/profile/deathook007
+[leetcode]: https://leetcode.com/deathook007/
