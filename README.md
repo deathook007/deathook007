@@ -5,13 +5,13 @@
 
 ## I'm a Student and Developer from Indian ✔
 
-💬 I am a 4th Year Undergraduate <b>Student at University Institute of Technology, Burdwan</b> and <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
+💬 I am a 4th Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
 - I’m currently learning <b>Full-Stack Development, and Data Science.</b>
 
-- <b>2022 Goals - </b> Contribute to Open Source projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Block Chain</b> and making a move to <b>Start-up</b>.
+- <b>2022 Goals - </b> Contribute to Open Source projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Blockchain</b> and make a move to <b>Start-up</b>.
 
-- Ask me about Tech-Stacks - Web Dev, Data Science and <b>CSE Core Subject's</b>.
+- Ask me about Tech-Stacks - Web Dev, Data Science and <b>CSE Core Subjects</b>.
 
 🤝 I’m looking to collaborate on <b>Web Development</b> and, <b>Software Development</b> roles.
 
