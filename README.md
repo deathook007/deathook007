@@ -34,7 +34,7 @@
 
 ### Competitive Profile
 
-[<img align="left" alt="geeksforgeeks" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/geeksforgeeks.svg" />][gfg]
+[<img align="left" alt="geeksforgeeks" width="32px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" />][gfg]
 [<img align="left" alt="codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
 
 <br />
