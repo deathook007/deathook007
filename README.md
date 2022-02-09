@@ -72,7 +72,7 @@
 
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
-[linkedin]: https://www.linkedin.com/in/deepak-bhatt-b7959817b
+[linkedin]: www.linkedin.com/in/deepak-bhatt-webdeveloper
 [youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
 [gfg]: https://auth.geeksforgeeks.org/user/deepakshivaybhatt/practice/
 [leetcode]: https://leetcode.com/deathook007/
