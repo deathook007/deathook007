@@ -5,19 +5,19 @@
 
 ## I'm a Student and Developer from India ✔
 
-💬 I am a 4th Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
+#### I am a 4th Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
-- I’m currently learning <b>Full-Stack Development, and Data Science.</b>
+🌱 I’m currently learning <b>Full-Stack Development, Data Structures, Advance Algorithms and Data Science.</b>
 
-- <b>2022 Goals - </b> Contribute to Open Source projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Blockchain</b> and make a move to <b>Start-up</b>.
+⚽ <b>2022 Goals - </b> Contribute to <b>Open Source</b> projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Blockchain</b> and make a move to <b>Start-up</b>.
 
-- Ask me about Tech-Stacks - Web Dev, Data Science and <b>CSE Core Subjects</b>.
+💬 Ask me about Tech-Stacks - Web Dev, Data Science and <b>CSE Core Subjects</b>.
 
-🤝 I’m looking to collaborate on <b>Web Development</b> and, <b>Software Development</b> roles.
+🤝 I’m looking to collaborate on <b>Full Stack Development</b> and, <b>Software Development Engineer</b> roles.
 
-✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - [IQRAR: AN INTELLIGENT, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)
+✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - <b>[IQRAR: AN INTELLIGENT, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)</b>
 
-📫 <b>How to reach me - </b> Mail me at - [deepak.shivay.bhatt@gmail.com]
+📫 <b>How to reach me - </b> Mail me at - <b>[deepak.shivay.bhatt@gmail.com]</b>
  
 ⚡ <b>Fun fact - </b> I love to draw and watch Anime and hope to have my own one day.
 
@@ -68,7 +68,7 @@
 
 ### My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathook007)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathook007&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
