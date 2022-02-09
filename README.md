@@ -35,7 +35,7 @@
 ### Competitive Profile
 
 [<img align="left" alt="geeksforgeeks" width="32px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" />][gfg]
-[<img align="left" alt="codeforces" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
+[<img align="left" alt="codeforces" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />][leetcode]
 
 <br />
 
