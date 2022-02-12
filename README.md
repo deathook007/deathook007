@@ -66,10 +66,13 @@
 <a href="https://www.buymeacoffee.com/deathook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
  - #### If you like what I do, maybe consider buying me a coffee 👈
 
-### My GitHub Stats
+### My GitHub Stats ⭐
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathook007&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathook007)](https://github.com/anuraghazra/github-readme-stats)
 
+### My Streak 🔥
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deathook007&" alt="deathook007" /></p>
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
 [linkedin]: www.linkedin.com/in/deepak-bhatt-webdeveloper
