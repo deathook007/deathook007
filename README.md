@@ -34,8 +34,11 @@
 
 ### Competitive Profile
 
-[<img align="left" alt="geeksforgeeks" width="32px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" />][gfg]
 [<img align="left" alt="codeforces" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />][leetcode]
+
+[<img align="left" alt="geeksforgeeks" width="32px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" />][gfg]
+
+[<img align="left" alt="hackerrank" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" />][hackerrank]
 
 <br />
 
@@ -79,3 +82,4 @@
 [youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
 [gfg]: https://auth.geeksforgeeks.org/user/deepakshivaybhatt/practice/
 [leetcode]: https://leetcode.com/deathook007/
+[hackerrank]: https://www.hackerrank.com/deepak_shivay_b1
