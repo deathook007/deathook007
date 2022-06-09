@@ -1,7 +1,7 @@
 # Hi there, I'm 💬
 ![Screenshot-1](https://raw.githubusercontent.com/deathook007/JavaScript-Mini-Projects/f76a1834e79bd2d0b09f051ebb513524bb1a9cb5/Deepak%20Linkedin%20Banner.png)
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-jsdeveloper)
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 ## A Software Developer from India ✔
@@ -79,7 +79,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deathook007&" alt="deathook007" /></p>
 
 [course]: https://chat.whatsapp.com/JIlA6oN8QP6E1C8DzYWjrg
-[linkedin]: www.linkedin.com/in/deepak-bhatt-webdeveloper
+[linkedin]: https://www.linkedin.com/in/deepak-bhatt-jsdeveloper
 [youtube]: https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ
 [gfg]: https://auth.geeksforgeeks.org/user/deepakshivaybhatt/practice/
 [leetcode]: https://leetcode.com/deathook007/
