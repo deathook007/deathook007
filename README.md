@@ -1,9 +1,10 @@
-## Hi there, I'm Deepak Bhatt <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm 💬
+![Screenshot-1](https://raw.githubusercontent.com/deathook007/JavaScript-Mini-Projects/f76a1834e79bd2d0b09f051ebb513524bb1a9cb5/Deepak%20Linkedin%20Banner.png)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-b7959817b)
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## I'm a Student and Developer from India ✔
+## A Software Developer from India ✔
 
 #### I am a 4th Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
