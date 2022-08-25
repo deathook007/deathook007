@@ -1,4 +1,4 @@
-# Hi there, I'm 💬
+# Hi there, I'm Deepak Bhatt 💬
 ![Screenshot-1](https://raw.githubusercontent.com/deathook007/JavaScript-Mini-Projects/f76a1834e79bd2d0b09f051ebb513524bb1a9cb5/Deepak%20Linkedin%20Banner.png)
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-jsdeveloper)
@@ -6,15 +6,15 @@
 
 ## A Software Developer from India ✔
 
-#### I am a 4th Year Undergraduate <b>Student at the University Institute of Technology, Burdwan</b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
+#### I am a Software Development Engineer at <b>Mosaic Wellness/b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
 
-🌱 I’m currently learning <b>Full-Stack Development, Data Structures, Advance Algorithms and Data Science.</b>
+🌱 I’m currently learning <b>Advance Data Structures, Algorithms and Data Javascript.</b>
 
-⚽ <b>2022 Goals - </b> Contribute to <b>Open Source</b> projects, Inspire <i>500+ students</i> at DevForFun, Learn <b>Cloud Computing and Blockchain</b> and make a move to <b>Start-up</b>.
+⚽ <b>2022 Goals - </b> Contribute to <b>Open Source</b> projects, <b>Learn</b> and <b>Explore</b>.
 
-💬 Ask me about Tech-Stacks - Web Dev, Data Science and <b>CSE Core Subjects</b>.
+💬 Ask me about Tech-Stacks - Javascript, Data Science, DSA and <b>Core Subjects</b>.
 
-🤝 I’m looking to collaborate on <b>Full Stack Development</b> and, <b>Software Development Engineer</b> roles.
+🤝 I’m looking to collaborate at <b>Software Development Engineer</b> roles.
 
 ✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - <b>[IQRAR: AN INTELLIGENT, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)</b>
 
