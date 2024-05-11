@@ -1,45 +1,31 @@
-# Hi there, I'm Deepak Bhatt 💬
-![Screenshot-1](https://raw.githubusercontent.com/deathook007/JavaScript-Mini-Projects/f76a1834e79bd2d0b09f051ebb513524bb1a9cb5/Deepak%20Linkedin%20Banner.png)
+## 👋 Hi, I'm a Remote Software Engineer with expertise in React Native and React.js
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-jsdeveloper)
+![Screenshot-1](https://raw.githubusercontent.com/deathook007/deathook007/master/Cover.jpg)
+
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## A Software Developer from India ✔
+## Currently, I'm serving as a Software Engineer at SenseHawk, a part of the Reliance Group, while also fulfilling my passion for teaching.
 
-#### I am a Software Development Engineer at <b>Mosaic Wellness/b> and a <b>Community Educator</b> at <b>[DevForFun][course]</b>. Working towards my goals.
+🌱 I'm continuously expanding my knowledge base, with a focus on Advanced <b>Data Structures</b>, <b>Algorithms</b>, and deepening my understanding of <b>React Native</b> concepts.
 
-🌱 I’m currently learning <b>Advance Data Structures, Algorithms and Data Javascript.</b>
+⚽ My goals for 2024 include contributing to <b>Open Source</b> projects and embracing opportunities for learning and exploration in the ever-evolving tech landscape.
 
-⚽ <b>2022 Goals - </b> Contribute to <b>Open Source</b> projects, <b>Learn</b> and <b>Explore</b>.
-
-💬 Ask me about Tech-Stacks - Javascript, Data Science, DSA and <b>Core Subjects</b>.
-
-🤝 I’m looking to collaborate at <b>Software Development Engineer</b> roles.
+🤝 I'm actively seeking collaboration opportunities in <b>Senior Software Engineer</b> and <b>SDE 2</b> roles, leveraging my experience and skills to drive impactful projects forward.
 
 ✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - <b>[IQRAR: AN INTELLIGENT, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)</b>
 
-📫 <b>How to reach me - </b> Mail me at - <b>[deepak.shivay.bhatt@gmail.com]</b>
- 
-⚡ <b>Fun fact - </b> I love to draw and watch Anime and hope to have my own one day.
+📫 You can connect with me via email at deepak.shivay.bhatt@gmail.com for any inquiries or collaborations.
+
+⚡ <b>Fun fact - </b> I'm an avid drawer and anime enthusiast, dreaming of creating my own anime series one day.
 
 ### Connect with me
 
-<a href="https://www.linkedin.com/in/deepak-bhatt-b7959817b">
-  <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCHlWou39mcTQcBkaj8ziOSQ">
-  <img align="left" alt="Abhishek's Discord" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-bhatt-jsdeveloper)
 <br />
 
 ### Competitive Profile
 
 [<img align="left" alt="codeforces" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />][leetcode]
-
-[<img align="left" alt="geeksforgeeks" width="32px" src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" />][gfg]
-
-[<img align="left" alt="hackerrank" width="32px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" />][hackerrank]
 
 <br />
 
