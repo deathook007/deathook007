@@ -22,13 +22,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-### Competitive Profile
-
-[<img align="left" alt="codeforces" width="42px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />][leetcode]
-
-<br>
-<br>
-
 ### By me a coffee ☕
 <a href="https://www.buymeacoffee.com/deathook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -36,9 +29,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathook007)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Streak 🔥
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deathook007&" alt="deathook007" /></p>
-
 [linkedin]: https://www.linkedin.com/in/deepakbhatt-softwaredeveloper/
-[leetcode]: https://leetcode.com/deathook007/
