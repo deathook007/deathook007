@@ -20,15 +20,14 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-### My GitHub Contributions at last two organisations
+# My GitHub Contributions at last two organisations
 
-## SenseHawk - 1129 contributions in 2024
+### [SenseHawk](https://sensehawk.com/) - 1129 contributions in 2024
 
-<img width="924" alt="Screenshot 2025-04-08 at 9 18 02 PM" src="https://github.com/user-attachments/assets/7f097d49-7971-4c9d-a047-e22911439896" />
+<img width="1412" alt="SenseHawk" src="https://github.com/user-attachments/assets/a3684d28-65eb-497b-be53-35eeeda3ae23" />
 
-## Mosaic Wellness - 1363 contributions in 2023
+### [Mosaic Wellness](https://www.mosaicwellness.in/) - 1363 contributions in 2023
 
 <img width="914" alt="Screenshot 2025-04-08 at 9 19 21 PM" src="https://github.com/user-attachments/assets/8aaa299b-1f20-44a7-894f-b47e4892dfff" />
 
 [linkedin]: https://www.linkedin.com/in/deepakbhatt-softwaredeveloper/
-
