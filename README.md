@@ -1,14 +1,14 @@
-## 👋 Hi, I'm a Remote Software Engineer with expertise in React Native and React.js
+##👋 Hi, I’m a Remote Software Engineer specializing in React Native and React.js. I build high-performance mobile and web applications with clean, scalable code.
 
 ![Screenshot-1](https://raw.githubusercontent.com/deathook007/deathook007/master/Cover.jpg)
 
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## Currently, I'm serving as a Software Engineer at SenseHawk, a part of the Reliance Group, while also fulfilling my passion for teaching.
+## Currently, I’m working as a Software Engineer at SenseHawk, a Reliance Group company, while also pursuing freelance projects that keep my passion for building impactful software alive.
 
-🌱 I'm continuously expanding my knowledge base, with a focus on Advanced <b>Data Structures</b>, <b>Algorithms</b>, and deepening my understanding of <b>React Native</b> concepts.
+🌱 I'm deepening my <b>React Native</b> expertise while exploring LLM integration. I'm also learning <b>Android</b> and <b>Swift<b/> to strengthen my native development fundamentals.
 
-⚽ My goals for 2024 include contributing to <b>Open Source</b> projects and embracing opportunities for learning and exploration in the ever-evolving tech landscape.
+🎯 My 2025 goal is to land a high-paying role while continuously growing into a better, more well-rounded engineer
 
 🤝 I'm actively seeking collaboration opportunities in <b>Senior Software Engineer</b> and <b>SDE 2</b> roles, leveraging my experience and skills to drive impactful projects forward.
 
@@ -16,17 +16,18 @@
 
 📫 You can connect with me via email at deepak.shivay.bhatt@gmail.com for any inquiries or collaborations.
 
-⚡ <b>Fun fact - </b> I'm an avid drawer and anime enthusiast, dreaming of creating my own anime series one day.
-
 ### Connect with me
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-### By me a coffee ☕
-<a href="https://www.buymeacoffee.com/deathook" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150" ></a>
+### My GitHub Contributions at last two organisations
 
-### My GitHub Stats ⭐
+## SenseHawk - 1129 contributions in 2024
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deathook007)](https://github.com/anuraghazra/github-readme-stats)
+![Screenshot-1](https://raw.githubusercontent.com/deathook007/deathook007/master/Cover.jpg)
+
+## Mosaic Wellness - 1363 contributions in 2023
+
+![Screenshot-1](https://raw.githubusercontent.com/deathook007/deathook007/master/Cover.jpg)
 
 [linkedin]: https://www.linkedin.com/in/deepakbhatt-softwaredeveloper/
