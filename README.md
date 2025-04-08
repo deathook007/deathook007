@@ -24,10 +24,11 @@
 
 ## SenseHawk - 1129 contributions in 2024
 
-![Screenshot-1](https://raw.githubusercontent.com/deathook007/deathook007/master/Cover.jpg)
+<img width="924" alt="Screenshot 2025-04-08 at 9 18 02 PM" src="https://github.com/user-attachments/assets/7f097d49-7971-4c9d-a047-e22911439896" />
 
 ## Mosaic Wellness - 1363 contributions in 2023
 
-![Screenshot-1](https://raw.githubusercontent.com/deathook007/deathook007/master/Cover.jpg)
+<img width="914" alt="Screenshot 2025-04-08 at 9 19 21 PM" src="https://github.com/user-attachments/assets/8aaa299b-1f20-44a7-894f-b47e4892dfff" />
 
 [linkedin]: https://www.linkedin.com/in/deepakbhatt-softwaredeveloper/
+
