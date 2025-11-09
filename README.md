@@ -1,16 +1,14 @@
-##👋 Hi, I’m a Remote Software Engineer specializing in React Native and React.js. I build high-performance mobile and web applications with clean, scalable code.
+## 👋 I’m a Senior Software Engineer at Zepto, specializing in React Native and dedicated to delivering high-quality, performant mobile experiences built with clean, scalable code.
 
 ![Screenshot-1](https://raw.githubusercontent.com/deathook007/deathook007/master/Cover.jpg)
 
 ![](https://komarev.com/ghpvc/?username=deathook007&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
-## Currently, I’m working as a Software Engineer at SenseHawk, a Reliance Group company, while also pursuing freelance projects that keep my passion for building impactful software alive.
+🌱 I’m deepening my expertise in React Native while exploring LLM integration. I’m also learning Android and Swift to strengthen my native development foundations.
 
-🌱 I'm deepening my <b>React Native</b> expertise while exploring LLM integration. I'm also learning <b>Android</b> and <b>Swift<b/> to strengthen my native development fundamentals.
+🎯 My 2025 goal is to land a high-impact, high-paying role while continuously growing into a more well-rounded and skilled engineer.
 
-🎯 My 2025 goal is to land a high-paying role while continuously growing into a better, more well-rounded engineer
-
-🤝 I'm actively seeking collaboration opportunities in <b>Senior Software Engineer</b> and <b>SDE 2</b> roles, leveraging my experience and skills to drive impactful projects forward.
+🤝 I’m actively seeking freelance collaborations and international opportunities, leveraging my experience as a Senior Software Engineer to deliver impactful, high-quality solutions.
 
 ✅ <b>Publication - </b> Contemporary issues in computing (Volume: Topics in Intelligent Computing and Industry Design (ICID) 2 (1) (2020) 109-113 Issue 1) - <b>[IQRAR: AN INTELLIGENT, QUICK AND RAPID RESPONSE SYSTEM](https://www.researchgate.net/publication/347635135_IQRAR_AN_INTELLIGENT_QUICK_AND_RAPID_ACCIDENT_RESPONSE_SYSTEM)</b>
 
